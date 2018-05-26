@@ -1,1 +1,1 @@
-# week-4-game
+# Pokemon RPG Game, using JQuery!
